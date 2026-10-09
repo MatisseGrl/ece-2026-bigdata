@@ -1,0 +1,11 @@
+*.duckdb
+*.duckdb.wal
+init.sql
+.venv/
+__pycache__/
+*.pyc
+orders_large.csv
+.venv/
+__pycache__/
+*.pyc
+orders_large.csv

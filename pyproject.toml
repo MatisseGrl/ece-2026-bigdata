@@ -1,0 +1,20 @@
+[project]
+name = "duckdb-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "m-garlot-ece", email = "matisse.garlot@edu.ece.fr" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "duckdb>=1.5.6",
+]
+
+[project.scripts]
+orders-report = "duckdb_lab.orders_report:main"
+duckdb-lab = "duckdb_lab:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
