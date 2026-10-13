@@ -1,0 +1,17 @@
+seeds:
+  - name: states
+    description: >
+      USPS codes of the states, territories, freely associated states and military regions, with the range of their
+      ZIP codes. Simplified reference data, one range per code: some codes use additional ZIP codes outside of it.
+    columns:
+      - name: code
+        description: Two letters USPS code.
+        data_tests:
+          - unique
+          - not_null
+      - name: name
+        description: Name of the state, territory or military region.
+      - name: zip_min
+        description: First ZIP code of the range, as an integer.
+      - name: zip_max
+        description: Last ZIP code of the range, as an integer.

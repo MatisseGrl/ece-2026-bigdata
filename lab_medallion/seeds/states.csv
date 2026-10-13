@@ -1,0 +1,63 @@
+code,name,zip_min,zip_max
+AL,Alabama,35004,36925
+AK,Alaska,99501,99950
+AZ,Arizona,85001,86556
+AR,Arkansas,71601,72959
+CA,California,90001,96162
+CO,Colorado,80001,81658
+CT,Connecticut,6001,6389
+DE,Delaware,19701,19980
+DC,District of Columbia,20001,20599
+FL,Florida,32004,34997
+GA,Georgia,30001,31999
+HI,Hawaii,96701,96898
+ID,Idaho,83201,83876
+IL,Illinois,60001,62999
+IN,Indiana,46001,47997
+IA,Iowa,50001,52809
+KS,Kansas,66002,67954
+KY,Kentucky,40003,42788
+LA,Louisiana,70001,71232
+ME,Maine,3901,4992
+MD,Maryland,20812,21930
+MA,Massachusetts,1001,2791
+MI,Michigan,48001,49971
+MN,Minnesota,55001,56763
+MS,Mississippi,38601,39776
+MO,Missouri,63001,65899
+MT,Montana,59001,59937
+NE,Nebraska,68001,69367
+NV,Nevada,88901,89883
+NH,New Hampshire,3031,3897
+NJ,New Jersey,7001,8989
+NM,New Mexico,87001,88441
+NY,New York,10001,14905
+NC,North Carolina,27006,28909
+ND,North Dakota,58001,58856
+OH,Ohio,43001,45999
+OK,Oklahoma,73001,74966
+OR,Oregon,97001,97920
+PA,Pennsylvania,15001,19640
+RI,Rhode Island,2801,2940
+SC,South Carolina,29001,29948
+SD,South Dakota,57001,57799
+TN,Tennessee,37010,38589
+TX,Texas,75503,79999
+UT,Utah,84001,84784
+VT,Vermont,5001,5495
+VA,Virginia,22001,24658
+WA,Washington,98001,99403
+WV,West Virginia,24701,26886
+WI,Wisconsin,53001,54990
+WY,Wyoming,82001,83128
+AS,American Samoa,96799,96799
+GU,Guam,96910,96932
+MP,Northern Mariana Islands,96950,96952
+PR,Puerto Rico,600,799
+VI,U.S. Virgin Islands,801,805
+FM,Federated States of Micronesia,96941,96944
+MH,Marshall Islands,96960,96970
+PW,Palau,96940,96940
+AE,Armed Forces Europe,9000,9999
+AA,Armed Forces Americas,34000,34099
+AP,Armed Forces Pacific,96200,96699
